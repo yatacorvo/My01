@@ -1,2 +1,1 @@
-# programming_languages
-# Java
+# othello_lab
